@@ -22,6 +22,12 @@ conda activate your_conda_env
 git clone https://github.com/ideriedm/dfMRI_tools.git
 pip install -e .
 ```
+or
+
+```
+conda activate your_conda_env
+pip install git+https://github.com/ideriedm/dfMRI_tools.git
+```
 
 ### Run the doc
 
