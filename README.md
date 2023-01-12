@@ -14,8 +14,8 @@ Package that allows standard manipulation of dfMRI nifti images as well as plott
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+```
 
 ### Run the doc
 
