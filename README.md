@@ -13,6 +13,7 @@ Package that allows standard manipulation of dfMRI nifti images as well as plott
 * matplotlib 3.5.3
 * numpy 1.23.4
 * nibabel 4.0.2
+* python >= 3.10
 * scipy 1.9.3
 
 ### Installing
