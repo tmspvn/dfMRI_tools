@@ -15,6 +15,9 @@ Package that allows standard manipulation of dfMRI nifti images as well as plott
 ### Installing
 
 ```
+conda activate your_conda_env
+git clone https://github.com/ideriedm/dfMRI_tools.git
+pip install -e .
 ```
 
 ### Run the doc
