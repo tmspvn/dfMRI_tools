@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "pydfMRI"
+version = "0.0.1"
+authors = [
+  { name="Ines de Riedmatten", email="Ines.de-Riedmatten@chuv.ch" },
+]
+description = "Package containing useful tools to handle, plot and process dfMRI data."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = ""
