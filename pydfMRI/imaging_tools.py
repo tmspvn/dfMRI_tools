@@ -75,7 +75,7 @@ def find_significant_vx(mask_name: str, mask_idx: list, zfmap_name: str, thresh:
     
     return  significant_vx
 
-def load_adc_timecourses(adc_filename: str, significant_vx: np.ndarray) -> np.ndarray:
+def load_timecourses(adc_filename: str, significant_vx: np.ndarray) -> np.ndarray:
     """
     Function that loads the ADC timeseries of the significant voxels
    
