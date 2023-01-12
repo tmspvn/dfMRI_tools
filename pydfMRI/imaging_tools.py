@@ -38,7 +38,7 @@ def calculate_temporal_snr(input_img: np.ndarray, TR: float) -> np.ndarray:
         TR (float): repetition time [ms]
    
     Returns:
-        (np.ndarray): SNR w.r.t. time axis
+        tSNR (np.ndarray): SNR w.r.t. time axis
     
     """
 
